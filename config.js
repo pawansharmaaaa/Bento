@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Pawan',
+	name: 'Thesus',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
